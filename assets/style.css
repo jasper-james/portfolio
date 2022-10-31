@@ -24,37 +24,6 @@
         transform: translateY(0);
     } 
 }
-
-#kermes {
-    background-image: url('./images/education/kermes.jpg');
-    background-position: left 350px top -45px;
-    background-repeat: no-repeat;
-    background-size: 250px;
-}
-#cardones {
-    background-image: url('./images/education/cardones.jpg');
-    background-position: left 350px top -45px;
-    background-repeat: no-repeat;
-    background-size: 250px;
-}
-#elementary {
-    background-image: url('./images/education/esves.png');
-    background-position: left 350px top -45px;
-    background-repeat: no-repeat;
-    background-size: 250px;
-}
-#junior {
-    background-image: url('./images/education/svnhs.jpg');
-    background-position: left 350px top -45px;
-    background-repeat: no-repeat;
-    background-size: 250px;
-}
-#college {
-    background-image: url('./images/education/pup.png');
-    background-position: left 350px top -45px;
-    background-repeat: no-repeat;
-    background-size: 250px;
-}
 #awardknc {
     background-image: url('./images/awards/knc.jpg');
     background-repeat: no-repeat;
